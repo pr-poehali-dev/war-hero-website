@@ -32,7 +32,7 @@ export default function Index() {
               <Card className="overflow-hidden shadow-2xl max-w-md">
                 <CardContent className="p-0">
                   <img 
-                    src="/img/7b4498de-8492-413e-984e-3cda30999fae.jpg" 
+                    src="https://cdn.poehali.dev/files/5c1412f7-1acd-47d5-8258-d04f5bba7a95.jpg" 
                     alt="Портрет героя войны" 
                     className="w-full h-auto object-cover"
                   />
