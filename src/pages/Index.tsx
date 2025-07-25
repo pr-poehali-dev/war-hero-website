@@ -9,7 +9,7 @@ export default function Index() {
       {/* Header */}
       <header className="bg-[#2D3748] text-white py-4">
         <div className="max-w-6xl mx-auto px-6 flex items-center justify-between">
-          <h1 className="text-2xl font-bold font-montserrat">Герой Войны</h1>
+          <h1 className="text-2xl font-bold font-montserrat">beksyltan</h1>
           <nav className="flex gap-6">
             <a href="#biography" className="hover:text-[#E53E3E] transition-colors">Биография</a>
             <a href="#documents" className="hover:text-[#E53E3E] transition-colors">Документы</a>
