@@ -23,21 +23,10 @@ export default function Index() {
         <div className="max-w-6xl mx-auto px-6">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
             <div className="text-center lg:text-left">
-              <h2 className="text-5xl font-bold font-montserrat text-[#2D3748] mb-6 leading-tight">
-                Алексей Николаевич
-                <br />
-                <span className="text-[#E53E3E]">Смирнов</span>
-              </h2>
-              <p className="text-xl text-gray-600 mb-4 font-open-sans">1920 - 1985</p>
-              <p className="text-lg text-gray-700 mb-8 leading-relaxed font-open-sans">
-                Гвардии майор, участник Великой Отечественной войны. 
-                Командир танкового батальона, герой Курской битвы. 
-                Награжден орденом Красного Знамени и медалью "За отвагу".
-              </p>
-              <Button className="bg-[#E53E3E] hover:bg-[#C53030] text-white px-8 py-3 text-lg">
-                <Icon name="FileText" className="mr-2" size={20} />
-                Читать биографию
-              </Button>
+              <h2 className="text-5xl font-bold font-montserrat text-[#2D3748] mb-6 leading-tight">Бексултан</h2>
+              <p className="text-xl text-gray-600 mb-4 font-open-sans">1488 - 1911</p>
+              <p className="text-lg text-gray-700 mb-8 leading-relaxed font-open-sans">Законный наследник престола Романовых, участник Узбекской войны, поэт, архитектор.</p>
+              <Button className="bg-[#E53E3E] hover:bg-[#C53030] text-white px-8 py-3 text-lg">Поддержать родных</Button>
             </div>
             <div className="flex justify-center">
               <Card className="overflow-hidden shadow-2xl max-w-md">
@@ -61,9 +50,7 @@ export default function Index() {
             <h3 className="text-4xl font-bold font-montserrat text-[#2D3748] mb-4">
               Архивные Документы
             </h3>
-            <p className="text-xl text-gray-600 font-open-sans">
-              Подлинные документы военного времени
-            </p>
+            <p className="text-xl text-gray-600 font-open-sans">Подлинные документы о удостоверении личности Бексултана</p>
           </div>
           
           <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
@@ -78,15 +65,13 @@ export default function Index() {
             </Card>
             
             <div>
-              <h4 className="text-2xl font-bold font-montserrat text-[#2D3748] mb-6">
-                Военные Справки и Приказы
-              </h4>
+              <h4 className="text-2xl font-bold font-montserrat text-[#2D3748] mb-6">Справки и Приказы</h4>
               <ul className="space-y-4 text-gray-700 font-open-sans">
                 <li className="flex items-start">
                   <Icon name="FileCheck" className="mr-3 mt-1 text-[#E53E3E]" size={20} />
                   <div>
-                    <strong>Справка о ранении</strong>
-                    <p className="text-sm text-gray-600">15 июля 1943 г., госпиталь №254</p>
+                    <strong>Подтверждение законного престола</strong>
+                    <p className="text-sm text-gray-600">15 июля 1946 г.</p>
                   </div>
                 </li>
                 <li className="flex items-start">
@@ -99,7 +84,7 @@ export default function Index() {
                 <li className="flex items-start">
                   <Icon name="MapPin" className="mr-3 mt-1 text-[#E53E3E]" size={20} />
                   <div>
-                    <strong>Боевой путь части</strong>
+                    <strong>Боевой путь </strong>
                     <p className="text-sm text-gray-600">21-й гвардейский танковый полк</p>
                   </div>
                 </li>
@@ -119,9 +104,7 @@ export default function Index() {
             <h3 className="text-4xl font-bold font-montserrat text-[#2D3748] mb-4">
               Боевые Награды
             </h3>
-            <p className="text-xl text-gray-600 font-open-sans">
-              За мужество и героизм в борьбе с фашизмом
-            </p>
+            <p className="text-xl text-gray-600 font-open-sans">За мужество и героизм в борьбе с макаризмом</p>
           </div>
 
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
