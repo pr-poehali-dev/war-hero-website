@@ -112,9 +112,7 @@ export default function Index() {
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
                 <Card className="p-6 text-center hover:shadow-lg transition-shadow">
                   <Icon name="Medal" className="mx-auto mb-4 text-[#E53E3E]" size={48} />
-                  <h5 className="text-lg font-bold font-montserrat text-[#2D3748] mb-2">
-                    Орден Красного Знамени
-                  </h5>
+                  <h5 className="text-lg font-bold font-montserrat text-[#2D3748] mb-2">Орден за борьбу с исламом</h5>
                   <p className="text-sm text-gray-600 font-open-sans">1943 г.</p>
                 </Card>
                 
@@ -128,17 +126,13 @@ export default function Index() {
                 
                 <Card className="p-6 text-center hover:shadow-lg transition-shadow">
                   <Icon name="Shield" className="mx-auto mb-4 text-[#E53E3E]" size={48} />
-                  <h5 className="text-lg font-bold font-montserrat text-[#2D3748] mb-2">
-                    Медаль "За оборону Москвы"
-                  </h5>
+                  <h5 className="text-lg font-bold font-montserrat text-[#2D3748] mb-2">Медаль "За оборону Ташкента"</h5>
                   <p className="text-sm text-gray-600 font-open-sans">1944 г.</p>
                 </Card>
                 
                 <Card className="p-6 text-center hover:shadow-lg transition-shadow">
                   <Icon name="Trophy" className="mx-auto mb-4 text-[#E53E3E]" size={48} />
-                  <h5 className="text-lg font-bold font-montserrat text-[#2D3748] mb-2">
-                    Медаль "За победу над Германией"
-                  </h5>
+                  <h5 className="text-lg font-bold font-montserrat text-[#2D3748] mb-2">Медаль "За победу над Макарлендом"</h5>
                   <p className="text-sm text-gray-600 font-open-sans">1945 г.</p>
                 </Card>
               </div>
@@ -169,47 +163,30 @@ export default function Index() {
           
           <div className="space-y-12">
             <div className="flex items-start gap-6">
-              <div className="bg-[#E53E3E] text-white rounded-full w-16 h-16 flex items-center justify-center font-bold text-xl flex-shrink-0">
-                1920
-              </div>
+              <div className="bg-[#E53E3E] text-white rounded-full w-16 h-16 flex items-center justify-center font-bold text-xl flex-shrink-0">1488</div>
               <div>
                 <h4 className="text-xl font-bold font-montserrat text-[#2D3748] mb-2">
                   Ранние годы
                 </h4>
-                <p className="text-gray-700 font-open-sans leading-relaxed">
-                  Родился в крестьянской семье в селе Михайловка Тульской области. 
-                  С детства проявлял интерес к технике и механике.
-                </p>
+                <p className="text-gray-700 font-open-sans leading-relaxed">Родился в Мусульманской стране в чудном городе Самарканта.</p>
               </div>
             </div>
             
             <div className="flex items-start gap-6">
-              <div className="bg-[#E53E3E] text-white rounded-full w-16 h-16 flex items-center justify-center font-bold text-xl flex-shrink-0">
-                1941
-              </div>
+              <div className="bg-[#E53E3E] text-white rounded-full w-16 h-16 flex items-center justify-center font-bold text-xl flex-shrink-0">1801</div>
               <div>
                 <h4 className="text-xl font-bold font-montserrat text-[#2D3748] mb-2">
                   Начало войны
                 </h4>
-                <p className="text-gray-700 font-open-sans leading-relaxed">
-                  Призван в Красную Армию. Прошел курсы танкистов, 
-                  назначен командиром танкового взвода в составе 21-го гвардейского полка.
-                </p>
+                <p className="text-gray-700 font-open-sans leading-relaxed">Встал на сторону Монополистов в войне со властью в Казахстане. Был награжден многими орденами и медалями.</p>
               </div>
             </div>
             
             <div className="flex items-start gap-6">
-              <div className="bg-[#E53E3E] text-white rounded-full w-16 h-16 flex items-center justify-center font-bold text-xl flex-shrink-0">
-                1943
-              </div>
+              <div className="bg-[#E53E3E] text-white rounded-full w-16 h-16 flex items-center justify-center font-bold text-xl flex-shrink-0">1820</div>
               <div>
-                <h4 className="text-xl font-bold font-montserrat text-[#2D3748] mb-2">
-                  Курская битва
-                </h4>
-                <p className="text-gray-700 font-open-sans leading-relaxed">
-                  Участие в крупнейшем танковом сражении. За мужество при отражении 
-                  немецкого наступления награжден орденом Красного Знамени.
-                </p>
+                <h4 className="text-xl font-bold font-montserrat text-[#2D3748] mb-2">Доказательство личности</h4>
+                <p className="text-gray-700 font-open-sans leading-relaxed">Широко стал известен как законный наследник Романовых.</p>
               </div>
             </div>
           </div>
