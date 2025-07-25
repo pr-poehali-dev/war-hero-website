@@ -71,7 +71,7 @@ export default function Index() {
                   <Icon name="FileCheck" className="mr-3 mt-1 text-[#E53E3E]" size={20} />
                   <div>
                     <strong>Подтверждение законного престола</strong>
-                    <p className="text-sm text-gray-600">15 июля 1946 г.</p>
+                    <p className="text-sm text-gray-600">15 июля 1820 г.</p>
                   </div>
                 </li>
                 <li className="flex items-start">
